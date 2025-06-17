@@ -3,8 +3,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=developerxnoxs&layout=compact)
 
-<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=developerxnoxs&theme=codeSTACKr" width="350">
-
 [![Github: xnoxs](https://img.shields.io/github/followers/developerxnoxs?style=social)](https://github.com/developerxnoxs)
 [![Gmail: xnoxs](https://img.shields.io/badge/Gmail-developerxnoxs-green?style=social&logo=gmail)](mailto:developerxnoxs@gmail.com)
 [![Telegram: xnoxs](https://img.shields.io/badge/Telegram-developerxnoxs-green?style=social&logo=Telegram)](https://t.me/PetapaGenit2)
