@@ -12,7 +12,7 @@
 <br>
 ![BTC: xnoxs](https://img.shields.io/badge/BTC-18jswG2t9EZrnHju5dyiYw1yGbkcrTSgJg-orange?style=flat-square&logo=bitcoin)
 <br>
-![Paypal: xnoxsl](https://img.shields.io/badge/Paypal-khaerudin2119@gmail.com-orange?style=flat-square&logo=paypal)
+![Paypal: xnoxs](https://img.shields.io/badge/Paypal-khaerudin2119@gmail.com-orange?style=flat-square&logo=paypal)
 <br>
 ![Dana: xnoxs](https://img.shields.io/badge/Dana-083144900354-orange?style=flat-square&logo=idr)
 <br>
