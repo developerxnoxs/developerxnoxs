@@ -1,6 +1,8 @@
 
 <h2> Hello, I'm <b>DEVELOPERXNOXS</b> 👋</h2>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=developerxnoxs&layout=compact)
+
 <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=developerxnoxs&theme=codeSTACKr" width="350">
 
 [![Github: xnoxs](https://img.shields.io/github/followers/developerxnoxs?style=social)](https://github.com/developerxnoxs)
