@@ -41,14 +41,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=developerxnoxs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="developerxnoxs" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=developerxnoxs&theme=tokyonight&hide_border=true" alt="developerxnoxs" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=developerxnoxs&layout=compact&theme=tokyonight&hide_border=true" alt="developerxnoxs" />
-</p>
-
+<img align='left' src="https://github-readme-stats.vercel.app/api?username=developerxnoxs&show_icons=true&theme=codeSTACKr" width="350">
 ---
 
 ### 🌐 Connect With Me:
