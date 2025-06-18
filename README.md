@@ -42,7 +42,7 @@
 </p>
 
 <p align="center">
-<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=xnoxs-dev&theme=codeSTACKr" width="350">
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=developerxnoxs&theme=codeSTACKr" width="350">
 </p>
 ---
 
