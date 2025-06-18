@@ -16,7 +16,6 @@
 
 - 🌱 I’m currently learning **AI, Machine Learning, Laravel, C++, Cybersecurity, and Python libraries**
 - ⚙️ I use daily: `.php`, `.py`, `.js`
-- 📝 I write sometimes on: [My Blog](#) <!-- ganti jika ada blog -->
 - 💬 Ask me about **web development, APIs, bots, CLI tools, ethical hacking**
 - 📫 Reach me at: **developerxnoxs@gmail.com**
 - ⚡ Fun fact: I love building projects that solve real-world problems and automate boring tasks 🤖
