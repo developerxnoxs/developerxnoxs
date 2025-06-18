@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm <b>DEVELOPERXNOXS</b></h1>
 <h3 align="center">💻 Full Stack Developer | 🛡️ Cybersecurity Enthusiast | 🤖 AI & ML Learner</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00F700&center=true&vCenter=true&multiline=true&width=500&height=100&lines=Welcome+to+my+GitHub!;I'm+a+passionate+developer.;Always+learning+something+new!+🚀" alt="Typing SVG" />
+<<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F700&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Welcome+to+my+GitHub!;I'm+a+passionate+developer.;Always+learning+something+new!+🚀" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=developerxnoxs&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=developerxnoxs&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/developerxnoxs?label=Followers&style=social" alt="GitHub Followers" />
 </p>
 
@@ -18,7 +18,7 @@
 - ⚙️ I use daily: `.php`, `.py`, `.js`
 - 📝 I write sometimes on: [My Blog](#) <!-- ganti jika ada blog -->
 - 💬 Ask me about **web development, APIs, bots, CLI tools, ethical hacking**
-- 📫 Reach me at: **your-email@example.com**
+- 📫 Reach me at: **developerxnoxs@gmail.com**
 - ⚡ Fun fact: I love building projects that solve real-world problems and automate boring tasks 🤖
 
 ---
@@ -55,14 +55,11 @@
 ### 🌐 Connect With Me:
 
 <p align="center">
-  <a href="https://t.me/your_telegram_username" target="blank">
+  <a href="https://t.me/developerxnoxs" target="blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="mailto:your-email@example.com" target="blank">
+  <a href="mailto:developerxnoxs@gmail.com" target="blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/your-linkedin" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/developerxnoxs" target="blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
