@@ -42,7 +42,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=developerxnoxs&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=developerxnoxs&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=0" />
 </p>
 
 ---
