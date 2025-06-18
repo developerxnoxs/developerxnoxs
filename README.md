@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm <b>DEVELOPERXNOXS</b></h1>
 <h3 align="center">💻 Full Stack Developer | 🛡️ Cybersecurity Enthusiast | 🤖 AI & ML Learner</h3>
 
-<<p align="center">
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F700&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Welcome+to+my+GitHub!;I'm+a+passionate+developer.;Always+learning+something+new!+🚀" alt="Typing SVG" />
 </p>
 
