@@ -41,7 +41,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=developerxnoxs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="developerxnoxs" />
 </p>
 
+<p align="center">
 <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=xnoxs-dev&theme=codeSTACKr" width="350">
+</p>
 ---
 
 ### 🌐 Connect With Me:
