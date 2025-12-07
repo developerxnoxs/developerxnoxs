@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GitHub Profile Preview - DEVELOPERXNOXS</title>
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif;
+            background-color: #0d1117;
+            color: #c9d1d9;
+            line-height: 1.6;
+        }
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 40px 20px;
+        }
+        .preview-badge {
+            background: linear-gradient(135deg, #6366f1, #8b5cf6);
+            color: white;
+            padding: 8px 16px;
+            border-radius: 8px;
+            font-size: 14px;
+            display: inline-block;
+            margin-bottom: 20px;
+        }
+        #content {
+            background-color: #161b22;
+            border: 1px solid #30363d;
+            border-radius: 8px;
+            padding: 40px;
+        }
+        #content img {
+            max-width: 100%;
+            height: auto;
+        }
+        #content h1, #content h2, #content h3 {
+            color: #c9d1d9;
+            border-bottom: 1px solid #21262d;
+            padding-bottom: 0.5em;
+            margin-top: 24px;
+            margin-bottom: 16px;
+        }
+        #content h1 {
+            font-size: 2em;
+        }
+        #content h2 {
+            font-size: 1.5em;
+        }
+        #content a {
+            color: #58a6ff;
+            text-decoration: none;
+        }
+        #content a:hover {
+            text-decoration: underline;
+        }
+        #content code {
+            background-color: rgba(110, 118, 129, 0.4);
+            padding: 0.2em 0.4em;
+            border-radius: 6px;
+            font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace;
+            font-size: 85%;
+        }
+        #content pre {
+            background-color: #161b22;
+            border: 1px solid #30363d;
+            border-radius: 6px;
+            padding: 16px;
+            overflow-x: auto;
+            margin: 16px 0;
+        }
+        #content pre code {
+            background: none;
+            padding: 0;
+        }
+        #content hr {
+            border: 0;
+            border-top: 1px solid #21262d;
+            margin: 24px 0;
+        }
+        #content p {
+            margin-bottom: 16px;
+        }
+        #content ul, #content ol {
+            margin-bottom: 16px;
+            padding-left: 2em;
+        }
+        #content li {
+            margin-bottom: 4px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="preview-badge">GitHub Profile README Preview</div>
+        <div id="content">Loading...</div>
+    </div>
+    <script>
+        fetch('/README.md')
+            .then(response => response.text())
+            .then(markdown => {
+                document.getElementById('content').innerHTML = marked.parse(markdown);
+            })
+            .catch(error => {
+                document.getElementById('content').innerHTML = '<p>Error loading README.md</p>';
+                console.error('Error:', error);
+            });
+    </script>
+</body>
+</html>
