@@ -69,28 +69,39 @@ const developerxnoxs = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <a href="https://github.com/developerxnoxs">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=developerxnoxs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  </a>
-  <a href="https://github.com/developerxnoxs">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developerxnoxs&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-  </a>
+  <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&style=for-the-badge&query=%24.followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fdeveloperxnoxs&color=6366f1" alt="Followers"/>
+  <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=Public+Repos&style=for-the-badge&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fdeveloperxnoxs&color=6366f1" alt="Repos"/>
+  <img src="https://img.shields.io/github/last-commit/developerxnoxs/developerxnoxs?style=for-the-badge&color=6366f1&logo=github&label=Last+Active" alt="Last Commit"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <a href="https://github.com/developerxnoxs">
-    <img src="https://streak-stats.demolab.com?user=developerxnoxs&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=developerxnoxs&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=developerxnoxs&show_icons=true&theme=default&hide_border=true"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=developerxnoxs&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats"/>
+  </picture>
 </div>
 
 <br/>
 
 <div align="center">
-  <a href="https://github.com/developerxnoxs">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=developerxnoxs&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=developerxnoxs&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=developerxnoxs&layout=compact&theme=default&hide_border=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=developerxnoxs&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages"/>
+  </picture>
+</div>
+
+<br/>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=developerxnoxs&theme=tokyonight&hide_border=true&background=0D1117"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=developerxnoxs&theme=default&hide_border=true"/>
+    <img src="https://streak-stats.demolab.com?user=developerxnoxs&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+  </picture>
 </div>
 
 ---
@@ -98,15 +109,7 @@ const developerxnoxs = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=developerxnoxs&theme=discord&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies" />
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+  <img src="https://github-profile-trophy.vercel.app/?username=developerxnoxs&theme=algolia&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" />
 </div>
 
 ---
