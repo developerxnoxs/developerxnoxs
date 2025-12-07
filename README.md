@@ -69,16 +69,28 @@ const developerxnoxs = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=developerxnoxs&show_icons=true&count_private=true&hide_border=true&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developerxnoxs&layout=compact&hide_border=true&title_color=6366f1&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
+  <a href="https://github.com/developerxnoxs">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=developerxnoxs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  </a>
+  <a href="https://github.com/developerxnoxs">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developerxnoxs&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  </a>
 </div>
 
-<div align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=developerxnoxs&theme=tokyonight&hide_border=true&stroke=6366f1&ring=6366f1&fire=6366f1&currStreakLabel=6366f1&background=0D1117" alt="GitHub Streak" />
-</div>
+<br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=developerxnoxs&bg_color=0d1117&color=6366f1&line=6366f1&point=6366f1&area=true&hide_border=true" alt="Activity Graph" />
+  <a href="https://github.com/developerxnoxs">
+    <img src="https://streak-stats.demolab.com?user=developerxnoxs&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/developerxnoxs">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=developerxnoxs&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
+  </a>
 </div>
 
 ---
