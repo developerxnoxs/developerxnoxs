@@ -18,7 +18,7 @@
 
 ```javascript
 const developerxnoxs = {
-    location: "Indonesia 🇮🇩",
+    location: "Indonesian 🇮🇩",
     role: "Full Stack Developer",
     interests: ["Web Dev", "Cybersecurity", "AI/ML"],
     currentFocus: "Building innovative solutions",
